@@ -1,0 +1,13 @@
+{
+  "releaseVersion": "0.1.0-beta.1",
+  "version": "0.1.0.1",
+  "targetAbi": "12.4.0.0",
+  "runtime": "linux-x64",
+  "filename": "plm-0.1.0-beta.1-linux-x64.zip",
+  "sourceUrl": "https://github.com/guiguichinelo/plm_plugin/releases/download/v0.1.0-beta.1/plm-0.1.0-beta.1-linux-x64.zip",
+  "checksum": "ccea0053c1add5bbbb52f28045533dc5",
+  "sha256": "37085ac9e25853c261108c4f5680e106be4d2c8dd9fa10684ff6311fc7ea53ea",
+  "timestamp": "2026-11-03T23:32:54Z",
+  "sourceCommit": "4357ea2cc5c22dea9b61a0106d5ad6268bdb0a2f",
+  "changelog": "First public beta. Private lists, native favorites, Watch Later, private thumbnails, recoverable deletion, filters, pagination, theme-aware controls and interface-language preferences. Linux x64; tested on Jellyfin 12.4.0. Requires Plugin Pages and File Transformation 3.0.3.0 Release-12.4.0. Partial translations outside English/Portuguese; English fallback. Back up before installing."
+}

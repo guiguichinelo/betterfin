@@ -1,0 +1,9 @@
+{
+  "category": "General",
+  "guid": "9963ad46-7894-424f-b854-786f370a81a3",
+  "name": "Personal Library Manager",
+  "owner": "guiguichinelo",
+  "overview": "Beta 1: personal lists, favorites and Watch Later. Linux x64 only.",
+  "description": "Create private personal collections from your Jellyfin catalog. Integrates native favorites, Watch Later, private list thumbnails, search, genres, pagination and recoverable deletion without deleting original media. First beta: tested on Jellyfin 12.4.0 and Linux x64 only; other hosts and architectures are not validated. The web interface requires Plugin Pages 3.0.3.0 and File Transformation 3.0.3.0, Release-12.4.0 builds. Back up your configuration and PLM data before installing. Interface translations are partial outside English/Portuguese, with English fallback. Optional native playlist mirrors remain experimental.",
+  "imageUrl": "https://raw.githubusercontent.com/guiguichinelo/betterfin/main/assets/plm/thumbnail.png"
+}
