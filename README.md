@@ -1,0 +1,2 @@
+# betterfin
+Plugins for Jellyfin
