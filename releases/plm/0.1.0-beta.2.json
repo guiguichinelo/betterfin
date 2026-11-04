@@ -1,0 +1,13 @@
+{
+  "releaseVersion": "0.1.0-beta.2",
+  "version": "0.1.0.2",
+  "targetAbi": "12.4.0.0",
+  "runtime": "linux-x64",
+  "filename": "plm-0.1.0-beta.2-linux-x64.zip",
+  "sourceUrl": "https://github.com/guiguichinelo/plm_plugin/releases/download/v0.1.0-beta.2/plm-0.1.0-beta.2-linux-x64.zip",
+  "checksum": "ff677ecd8dc97b67fd36f950f33ecf8c",
+  "sha256": "f56732ed0c8cc46740a2202c8bd82dc6876b2c795b070356107aee0a5ef1182b",
+  "timestamp": "2026-11-04T18:22:24Z",
+  "sourceCommit": "fa7ee1ed9e0258a4169fc56fa25152687fbaf51f",
+  "changelog": "Fix saved-heart presentation: native likes and personal lists are independent. Hearts also reflect Watch Later, with private batched lookups. Includes theme and cached-page navigation fixes. Previous beta 1 archives remain immutable."
+}

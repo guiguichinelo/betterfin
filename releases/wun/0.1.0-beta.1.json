@@ -1,0 +1,13 @@
+{
+  "releaseVersion": "0.1.0-beta.1",
+  "version": "0.1.0.1",
+  "targetAbi": "12.4.0.0",
+  "runtime": "linux-x64",
+  "filename": "wun-0.1.0-beta.1-linux-x64.zip",
+  "sourceUrl": "https://github.com/guiguichinelo/wun_plugin/releases/download/v0.1.0-beta.1/wun-0.1.0-beta.1-linux-x64.zip",
+  "checksum": "fde42421b618ca37b9611ee5ec54d0ce",
+  "sha256": "2680b79fe393c597913c843d7d49744173e563ba91365512a5b6bae1cdb19de6",
+  "timestamp": "2026-11-04T18:28:51Z",
+  "sourceCommit": "f9d94dc391fe31dcde7d5f506a45d0d88ef2cacb",
+  "changelog": "First public beta: catalog search, user requests, administrator decisions, private notes, followers and notifications. Movie/series details, season covers, episode stills, availability and provider release dates. Acquisition is manual; automated monitoring workers are not included."
+}
