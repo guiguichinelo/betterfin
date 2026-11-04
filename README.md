@@ -63,15 +63,15 @@ included for reproducibility. No private server screenshots or branding are used
 
 GPL-3.0; see [LICENSE](LICENSE). Plugin binaries retain their own licenses and notices.
 
-## What U Need? — first beta
+## What U Need? — beta 2
 
 ![WUN](assets/wun/thumbnail.png)
 
 Catalog requests with movie/series details, seasons, episode images and availability. Native likes remain independent from PLM saved-list indicators.
 
 - [Source](https://github.com/guiguichinelo/wun_plugin)
-- [Beta release](https://github.com/guiguichinelo/wun_plugin/releases/tag/v0.1.0-beta.1)
-- Release 0.1.0-beta.1, numeric catalog/assembly version 0.1.0.1.
+- [Beta release](https://github.com/guiguichinelo/wun_plugin/releases/tag/v0.1.0-beta.2)
+- Release 0.1.0-beta.2, numeric catalog/assembly version 0.1.0.2.
 - Jellyfin 12.4.0 / Linux x64; requires the same Plugin Pages/File Transformation dependencies listed above.
 - Acquisition is manual. Automatic monitoring workers and review reminders are pending.
 - The WUN thumbnail is original SVG artwork rendered as PNG; it contains no server screenshots or personal branding.

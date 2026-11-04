@@ -1,0 +1,13 @@
+{
+  "releaseVersion": "0.1.0-beta.2",
+  "version": "0.1.0.2",
+  "targetAbi": "12.4.0.0",
+  "runtime": "linux-x64",
+  "filename": "wun-0.1.0-beta.2-linux-x64.zip",
+  "sourceUrl": "https://github.com/guiguichinelo/wun_plugin/releases/download/v0.1.0-beta.2/wun-0.1.0-beta.2-linux-x64.zip",
+  "checksum": "0d96e72ced90487699ff42559050ac6d",
+  "sha256": "7f1bc163493c712bfcbf9c2cad576eeaf5cfc3787f1a5694719c0287593cc925",
+  "timestamp": "2026-11-04T19:11:02Z",
+  "sourceCommit": "b605af0c23209b725090dd0c52dc448efa63797b",
+  "changelog": "Align the Requests header tooltip with the Jellyfin Search/Profile tooltips. Uses host palette variables, matching typography and spacing, delayed hover and immediate keyboard focus. Preserves accessible labels, supports Escape and removes the browser-native title popup. Handles recreated header buttons and language changes."
+}
