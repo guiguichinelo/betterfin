@@ -1,0 +1,13 @@
+{
+  "releaseVersion": "0.1.0-beta.4",
+  "version": "0.1.0.4",
+  "targetAbi": "12.4.0.0",
+  "runtime": "linux-x64",
+  "filename": "wun-0.1.0-beta.4-linux-x64.zip",
+  "sourceUrl": "https://github.com/guiguichinelo/wun_plugin/releases/download/v0.1.0-beta.4/wun-0.1.0-beta.4-linux-x64.zip",
+  "checksum": "582d3c524a374aae8313dd7c8ba1a95e",
+  "sha256": "1b928fd4c6cf2c56d00d98aada38f24cbd202626acad15414ff78ea6acaefd56",
+  "timestamp": "2026-11-05T02:10:19Z",
+  "sourceCommit": "7d9752a8fb060a9b5e83670bc13ebba2e4cbabfd",
+  "changelog": "Improve request navigation and administrator workflow: correct page titles, separate unread/read notifications, full-row media-type selection, keep search after requesting, default the administrator queue to pending approval, reflect saved decisions in available actions and refresh without losing filters."
+}

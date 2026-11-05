@@ -31,10 +31,18 @@
     "guid": "1d91696c-0fdd-46da-8734-3a3d94e33002",
     "name": "What U Need?",
     "owner": "guiguichinelo",
-    "overview": "Beta 3: personal requests, unique supports, rich notifications and native administration. Linux x64 only.",
-    "description": "Search the installed TMDb provider, request catalog content and support existing requests. Personal user queues, a general administrator queue, covers, participant context and rich notifications. Native configuration and metrics, availability reconciliation, confirmed reopening and optional expiration/retention. All deletion and expiration policies default to disabled. Acquisition is manual. Upgrade migrates the WUN database to schema 3: back up binaries, plugin configuration and WUN data; restore matching binaries and database together to revert. Tested on Jellyfin 12.4.0 / Linux x64 only. User-facing page requires Plugin Pages and File Transformation 3.0.3.0 Release-12.4.0. Portuguese/English with English fallback.",
+    "overview": "Beta 4: improved request navigation, read/unread notifications and decision controls. Linux x64 only.",
+    "description": "Search the installed TMDb provider, request catalog content and support existing requests. Personal user queues, a general administrator queue, covers, participant context and separate unread/read notifications. Search stays open after requesting; state-aware administrator actions and refresh preserve queue filters. Native configuration and metrics, availability reconciliation, confirmed reopening and optional expiration/retention. All deletion and expiration policies default to disabled. Acquisition is manual. Upgrade migrates the WUN database to schema 3: back up binaries, plugin configuration and WUN data; restore matching binaries and database together to revert. Tested on Jellyfin 12.4.0 / Linux x64 only. User-facing page requires Plugin Pages and File Transformation 3.0.3.0 Release-12.4.0. Portuguese/English with English fallback.",
     "imageUrl": "https://raw.githubusercontent.com/guiguichinelo/betterfin/main/assets/wun/thumbnail.png",
     "versions": [
+      {
+        "version": "0.1.0.4",
+        "changelog": "Improve request navigation and administrator workflow: correct page titles, separate unread/read notifications, full-row media-type selection, keep search after requesting, default the administrator queue to pending approval, reflect saved decisions in available actions and refresh without losing filters.",
+        "targetAbi": "12.4.0.0",
+        "sourceUrl": "https://github.com/guiguichinelo/wun_plugin/releases/download/v0.1.0-beta.4/wun-0.1.0-beta.4-linux-x64.zip",
+        "checksum": "582d3c524a374aae8313dd7c8ba1a95e",
+        "timestamp": "2026-11-05T02:10:19Z"
+      },
       {
         "version": "0.1.0.3",
         "changelog": "Personal queues and unique supports, enriched notifications and administrator decisions, native configuration/metrics, automatic availability reconciliation and optional retention. Tested on Jellyfin 12.4.0 / Linux x64. All deletion and expiration policies are disabled by default.",

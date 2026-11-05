@@ -33,13 +33,13 @@ Private lists, native favorites, Watch Later, thumbnails and browse filters.
 - Back up Jellyfin and PLM data before installing. Native-client playback,
   sustained load and other server versions remain unvalidated.
 
-### What U Need? - beta 3
+### What U Need? - beta 4
 
 Personal catalog requests, unique supports, administrator decisions and rich notifications. Native configuration/metrics, availability updates and optional retention. All deletion and expiration policies default to disabled. Database schema 3 requires a matching data/binary backup for rollback.
 
 - [Source](https://github.com/guiguichinelo/wun_plugin)
-- [Beta release](https://github.com/guiguichinelo/wun_plugin/releases/tag/v0.1.0-beta.3)
-- Jellyfin catalog/assembly version `0.1.0.3`; Linux x64 / Jellyfin 12.4.0.
+- [Beta release](https://github.com/guiguichinelo/wun_plugin/releases/tag/v0.1.0-beta.4)
+- Jellyfin catalog/assembly version `0.1.0.4`; Linux x64 / Jellyfin 12.4.0.
 - Acquisition is manual. User-facing pages require Plugin Pages and File Transformation 3.0.3.0 Release-12.4.0. Review the release notes before installing.
 
 ## Maintain versioned catalogs
