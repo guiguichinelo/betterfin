@@ -1,0 +1,13 @@
+{
+  "releaseVersion": "0.1.0-beta.3",
+  "version": "0.1.0.3",
+  "targetAbi": "12.4.0.0",
+  "runtime": "linux-x64",
+  "filename": "wun-0.1.0-beta.3-linux-x64.zip",
+  "sourceUrl": "https://github.com/guiguichinelo/wun_plugin/releases/download/v0.1.0-beta.3/wun-0.1.0-beta.3-linux-x64.zip",
+  "checksum": "05663a2c82d79f5aa783020c1b0ae63c",
+  "sha256": "2f7ccdb863f488d9d63ebf104c70d021f6be0a35809925b524ec982dce3ebfec",
+  "timestamp": "2026-11-05T00:44:24Z",
+  "sourceCommit": "7b335f9fd43209f7cac48f398358030f61d52f5c",
+  "changelog": "Personal queues and unique supports, enriched notifications and administrator decisions, native configuration/metrics, automatic availability reconciliation and optional retention. Tested on Jellyfin 12.4.0 / Linux x64. All deletion and expiration policies are disabled by default."
+}

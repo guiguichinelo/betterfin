@@ -31,10 +31,18 @@
     "guid": "1d91696c-0fdd-46da-8734-3a3d94e33002",
     "name": "What U Need?",
     "owner": "guiguichinelo",
-    "overview": "Beta 2: catalog requests and native-style header tooltip. Linux x64 only.",
-    "description": "Search the installed TMDb provider, request movies or episodes, follow requests and review administrator decisions. Details include synopses, title and season covers, episode stills, availability and provider dates. Administrators approve, decline or defer requests and keep private notes. Acquisition is manual; automated monitoring workers are not included. Tested on Jellyfin 12.4.0 / Linux x64 only. Requires Plugin Pages and File Transformation 3.0.3.0 Release-12.4.0 builds. Portuguese/English with English fallback. Back up before installing.",
+    "overview": "Beta 3: personal requests, unique supports, rich notifications and native administration. Linux x64 only.",
+    "description": "Search the installed TMDb provider, request catalog content and support existing requests. Personal user queues, a general administrator queue, covers, participant context and rich notifications. Native configuration and metrics, availability reconciliation, confirmed reopening and optional expiration/retention. All deletion and expiration policies default to disabled. Acquisition is manual. Upgrade migrates the WUN database to schema 3: back up binaries, plugin configuration and WUN data; restore matching binaries and database together to revert. Tested on Jellyfin 12.4.0 / Linux x64 only. User-facing page requires Plugin Pages and File Transformation 3.0.3.0 Release-12.4.0. Portuguese/English with English fallback.",
     "imageUrl": "https://raw.githubusercontent.com/guiguichinelo/betterfin/main/assets/wun/thumbnail.png",
     "versions": [
+      {
+        "version": "0.1.0.3",
+        "changelog": "Personal queues and unique supports, enriched notifications and administrator decisions, native configuration/metrics, automatic availability reconciliation and optional retention. Tested on Jellyfin 12.4.0 / Linux x64. All deletion and expiration policies are disabled by default.",
+        "targetAbi": "12.4.0.0",
+        "sourceUrl": "https://github.com/guiguichinelo/wun_plugin/releases/download/v0.1.0-beta.3/wun-0.1.0-beta.3-linux-x64.zip",
+        "checksum": "05663a2c82d79f5aa783020c1b0ae63c",
+        "timestamp": "2026-11-05T00:44:24Z"
+      },
       {
         "version": "0.1.0.2",
         "changelog": "Align the Requests header tooltip with the Jellyfin Search/Profile tooltips. Uses host palette variables, matching typography and spacing, delayed hover and immediate keyboard focus. Preserves accessible labels, supports Escape and removes the browser-native title popup. Handles recreated header buttons and language changes.",
