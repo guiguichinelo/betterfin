@@ -1,0 +1,13 @@
+{
+  "releaseVersion": "0.1.0-beta.4",
+  "version": "0.1.0.4",
+  "targetAbi": "12.4.0.0",
+  "runtime": "linux-x64",
+  "filename": "plm-0.1.0-beta.4-linux-x64.zip",
+  "sourceUrl": "https://github.com/guiguichinelo/plm_plugin/releases/download/v0.1.0-beta.4/plm-0.1.0-beta.4-linux-x64.zip",
+  "checksum": "853c0d7213e00a6404cddbf713a3e1db",
+  "sha256": "275493f54a63b60366df8f77c7d19b8aa729b9d1007207f0fc4c43fd4827fd0a",
+  "timestamp": "2026-11-05T06:08:31Z",
+  "sourceCommit": "5b000c0bbc80dc6ebf3a3841a8841721f0dd98e1",
+  "changelog": "Restrict full-width responsive layout to the Favorites library. Personal settings keep their original centered width, and host pages are unaffected. Retains beta 3's localized Favorites settings heading, native create-list/trash controls, active navigation and browser-title fixes."
+}
