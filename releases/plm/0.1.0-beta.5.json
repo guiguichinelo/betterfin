@@ -1,0 +1,13 @@
+{
+  "releaseVersion": "0.1.0-beta.5",
+  "version": "0.1.0.5",
+  "targetAbi": "12.4.0.0",
+  "runtime": "linux-x64",
+  "filename": "plm-0.1.0-beta.5-linux-x64.zip",
+  "sourceUrl": "https://github.com/guiguichinelo/plm_plugin/releases/download/v0.1.0-beta.5/plm-0.1.0-beta.5-linux-x64.zip",
+  "checksum": "2a4e3df515f1b207024b7f7cfdc851ff",
+  "sha256": "893cfeca6f837148a48bbaec5359ba2dce7998110bcbe20c32f72de168c4388c",
+  "timestamp": "2026-11-05T11:36:09Z",
+  "sourceCommit": "848f7c10bfffc825dc0bafc448bb711befb307e6",
+  "changelog": "Preserve personal-list membership and native favorite intent across catalog disappearance and item-ID changes. Reconcile unique, visible provider matches after scans settle, retain explicit unlikes and deletion markers, preserve list order/dates and current playback state, and keep unidentified or ambiguous matches pending."
+}
