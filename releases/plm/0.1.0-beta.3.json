@@ -1,0 +1,13 @@
+{
+  "releaseVersion": "0.1.0-beta.3",
+  "version": "0.1.0.3",
+  "targetAbi": "12.4.0.0",
+  "runtime": "linux-x64",
+  "filename": "plm-0.1.0-beta.3-linux-x64.zip",
+  "sourceUrl": "https://github.com/guiguichinelo/plm_plugin/releases/download/v0.1.0-beta.3/plm-0.1.0-beta.3-linux-x64.zip",
+  "checksum": "1bfeba64055ddb93285dbfc8779e0aee",
+  "sha256": "b6a133be7ef71214a75aaab0d918e70cae9c0b550e8b0bdb208b1e9e6e007843",
+  "timestamp": "2026-11-05T05:59:19Z",
+  "sourceCommit": "c10834999905cdc933cacad6ff69a9745921f5bc",
+  "changelog": "Clarify personal collection management with a localized Favorites settings heading and remove the redundant Personal preferences eyebrow. Keep Favorites navigation selected on PLM routes and synchronize the browser tab title with the active page and interface language."
+}

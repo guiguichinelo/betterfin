@@ -24,8 +24,8 @@ release notes. This first catalog deliberately includes a prerelease.
 Private lists, native favorites, Watch Later, thumbnails and browse filters.
 
 - [Source](https://github.com/guiguichinelo/plm_plugin)
-- [Beta release](https://github.com/guiguichinelo/plm_plugin/releases/tag/v0.1.0-beta.2)
-- Release tag `v0.1.0-beta.2`; Jellyfin catalog/assembly version `0.1.0.2`.
+- [Beta release](https://github.com/guiguichinelo/plm_plugin/releases/tag/v0.1.0-beta.3)
+- Release tag `v0.1.0-beta.3`; Jellyfin catalog/assembly version `0.1.0.3`.
 - **Linux x64 / Jellyfin 12.4.0 only in this beta.** The catalog does not select
   downloads by operating system or CPU; do not install this archive on Windows or ARM.
 - The web interface requires Plugin Pages and File Transformation **3.0.3.0,
@@ -79,7 +79,7 @@ GPL-3.0; see [LICENSE](LICENSE). Plugin binaries retain their own licenses and n
 Catalog requests with movie/series details, seasons, episode images and availability. Native likes remain independent from PLM saved-list indicators.
 
 - [Source](https://github.com/guiguichinelo/wun_plugin)
-- [Beta release](https://github.com/guiguichinelo/wun_plugin/releases/tag/v0.1.0-beta.2)
+- [Beta release](https://github.com/guiguichinelo/wun_plugin/releases/tag/v0.1.0-beta.3)
 - Release 0.1.0-beta.2, numeric catalog/assembly version 0.1.0.2.
 - Jellyfin 12.4.0 / Linux x64; requires the same Plugin Pages/File Transformation dependencies listed above.
 - Acquisition is manual. Automatic monitoring workers and review reminders are pending.
