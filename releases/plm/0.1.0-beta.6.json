@@ -1,0 +1,13 @@
+{
+  "releaseVersion": "0.1.0-beta.6",
+  "version": "0.1.0.6",
+  "targetAbi": "12.4.0.0",
+  "runtime": "linux-x64",
+  "filename": "plm-0.1.0-beta.6-linux-x64.zip",
+  "sourceUrl": "https://github.com/guiguichinelo/plm_plugin/releases/download/v0.1.0-beta.6/plm-0.1.0-beta.6-linux-x64.zip",
+  "checksum": "a7dc1be7254ebf82795e32c069ab62d9",
+  "sha256": "56519637c2e2b061efb38be5f9cf76490335da539110d6767617b0bbdc548643",
+  "timestamp": "2026-11-06T04:52:08Z",
+  "sourceCommit": "2b51de78d7e1c62d745ec3b397146920dfe1e29f",
+  "changelog": "Fix HTTP 500 when another plugin passes an empty GUID to clear a selection, and allow independent native user-data updates to proceed concurrently. Mirror reads remain owner-scoped, and native playlist mutations retain their protection and creation/recovery barrier."
+}

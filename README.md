@@ -21,11 +21,11 @@ release notes. This first catalog deliberately includes a prerelease.
 
 ![PLM](assets/plm/thumbnail.png)
 
-Private lists, native favorites, Watch Later, thumbnails and browse filters. Beta 5 preserves observed selection/favorite intent across catalog rebuilds. Wait for its initial baseline; unidentified or ambiguous matches remain pending.
+Private lists, native favorites, Watch Later, thumbnails and browse filters. Beta 6 fixes empty selection integration and concurrent user-data writes, retaining catalog resilience. Wait for its initial baseline; unidentified or ambiguous matches remain pending.
 
 - [Source](https://github.com/guiguichinelo/plm_plugin)
-- [Beta release](https://github.com/guiguichinelo/plm_plugin/releases/tag/v0.1.0-beta.5)
-- Release tag `v0.1.0-beta.5`; Jellyfin catalog/assembly version `0.1.0.5`.
+- [Beta release](https://github.com/guiguichinelo/plm_plugin/releases/tag/v0.1.0-beta.6)
+- Release tag `v0.1.0-beta.6`; Jellyfin catalog/assembly version `0.1.0.6`.
 - **Linux x64 / Jellyfin 12.4.0 only in this beta.** The catalog does not select
   downloads by operating system or CPU; do not install this archive on Windows or ARM.
 - The web interface requires Plugin Pages and File Transformation **3.0.3.0,

@@ -9,6 +9,14 @@
     "imageUrl": "https://raw.githubusercontent.com/guiguichinelo/betterfin/main/assets/plm/thumbnail.png",
     "versions": [
       {
+        "version": "0.1.0.6",
+        "changelog": "Fix HTTP 500 when another plugin passes an empty GUID to clear a selection, and allow independent native user-data updates to proceed concurrently. Mirror reads remain owner-scoped, and native playlist mutations retain their protection and creation/recovery barrier.",
+        "targetAbi": "12.4.0.0",
+        "sourceUrl": "https://github.com/guiguichinelo/plm_plugin/releases/download/v0.1.0-beta.6/plm-0.1.0-beta.6-linux-x64.zip",
+        "checksum": "a7dc1be7254ebf82795e32c069ab62d9",
+        "timestamp": "2026-11-06T04:52:08Z"
+      },
+      {
         "version": "0.1.0.5",
         "changelog": "Preserve personal-list membership and native favorite intent across catalog disappearance and item-ID changes. Reconcile unique, visible provider matches after scans settle, retain explicit unlikes and deletion markers, preserve list order/dates and current playback state, and keep unidentified or ambiguous matches pending.",
         "targetAbi": "12.4.0.0",
