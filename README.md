@@ -41,7 +41,7 @@ Personal catalog requests, unique supports, administrator decisions and rich not
 
 - [Source](https://github.com/guiguichinelo/wun_plugin)
 - [Beta release](https://github.com/guiguichinelo/wun_plugin/releases/tag/v0.1.0-beta.5)
-- Jellyfin catalog/assembly version `0.1.0.4`; Linux x64 / Jellyfin 12.4.0.
+- Jellyfin catalog/assembly version `0.1.0.5`; Linux x64 / Jellyfin 12.4.0.
 - Acquisition is manual. User-facing pages require Plugin Pages and File Transformation 3.0.3.0 Release-12.4.0. Review the release notes before installing.
 
 ## Maintain versioned catalogs
