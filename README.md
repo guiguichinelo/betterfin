@@ -17,7 +17,7 @@ release notes. This first catalog deliberately includes a prerelease.
 
 ## Plugins
 
-### Personal Library Manager — beta 5
+### Personal Library Manager — beta 6
 
 ![PLM](assets/plm/thumbnail.png)
 
@@ -33,12 +33,14 @@ Private lists, native favorites, Watch Later, thumbnails and browse filters. Bet
 - Back up Jellyfin and PLM data before installing. Native-client playback,
   sustained load and other server versions remain unvalidated.
 
-### What U Need? - beta 4
+### What U Need? - beta 5
 
-Personal catalog requests, unique supports, administrator decisions and rich notifications. Native configuration/metrics, availability updates and optional retention. All deletion and expiration policies default to disabled. Database schema 3 requires a matching data/binary backup for rollback.
+![WUN](assets/wun/thumbnail.png)
+
+Personal catalog requests, unique supports, administrator decisions and rich notifications. Beta 5 adds bounded read caches and shared provider loads, preserving live workflow state and stable refresh controls. Native configuration/metrics, availability updates and optional retention. All deletion and expiration policies default to disabled. Database schema 3 requires a matching data/binary backup for rollback.
 
 - [Source](https://github.com/guiguichinelo/wun_plugin)
-- [Beta release](https://github.com/guiguichinelo/wun_plugin/releases/tag/v0.1.0-beta.4)
+- [Beta release](https://github.com/guiguichinelo/wun_plugin/releases/tag/v0.1.0-beta.5)
 - Jellyfin catalog/assembly version `0.1.0.4`; Linux x64 / Jellyfin 12.4.0.
 - Acquisition is manual. User-facing pages require Plugin Pages and File Transformation 3.0.3.0 Release-12.4.0. Review the release notes before installing.
 
@@ -72,15 +74,5 @@ included for reproducibility. No private server screenshots or branding are used
 
 GPL-3.0; see [LICENSE](LICENSE). Plugin binaries retain their own licenses and notices.
 
-## What U Need? — beta 2
 
-![WUN](assets/wun/thumbnail.png)
-
-Catalog requests with movie/series details, seasons, episode images and availability. Native likes remain independent from PLM saved-list indicators.
-
-- [Source](https://github.com/guiguichinelo/wun_plugin)
-- [Beta release](https://github.com/guiguichinelo/wun_plugin/releases/tag/v0.1.0-beta.4)
-- Release 0.1.0-beta.2, numeric catalog/assembly version 0.1.0.2.
-- Jellyfin 12.4.0 / Linux x64; requires the same Plugin Pages/File Transformation dependencies listed above.
-- Acquisition is manual. Automatic monitoring workers and review reminders are pending.
-- The WUN thumbnail is original SVG artwork rendered as PNG; it contains no server screenshots or personal branding.
+The WUN thumbnail is original SVG artwork rendered as PNG; it contains no server screenshots or personal branding.

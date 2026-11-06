@@ -1,0 +1,13 @@
+{
+  "releaseVersion": "0.1.0-beta.5",
+  "version": "0.1.0.5",
+  "targetAbi": "12.4.0.0",
+  "runtime": "linux-x64",
+  "filename": "wun-0.1.0-beta.5-linux-x64.zip",
+  "sourceUrl": "https://github.com/guiguichinelo/wun_plugin/releases/download/v0.1.0-beta.5/wun-0.1.0-beta.5-linux-x64.zip",
+  "checksum": "e93c5719ea36cae5887d5be02a3a48a0",
+  "sha256": "ea25006ab95394e80dbc7061082fd04d047b317b88d060b3905e4c6350d283f5",
+  "timestamp": "2026-11-06T13:09:18Z",
+  "sourceCommit": "5be3b67af041d7053b22e8d71daa25e6b85ded5b",
+  "changelog": "Reduce repeated work in request queues, notifications, searches and title details. Cache public provider data with bounded retention and shared in-flight loads; keep workflow decisions, supports and read state live. Preserve list controls and cards while refreshing."
+}
