@@ -76,6 +76,14 @@
     "imageUrl": "https://raw.githubusercontent.com/guiguichinelo/betterfin/main/assets/wun/thumbnail.png",
     "versions": [
       {
+        "version": "0.1.0.6",
+        "changelog": "Reconcile requests automatically when catalog items arrive, when a library scan completes and after administrator decisions. Group episode requests by series and season, show availability clearly and open the requested episode directly.",
+        "targetAbi": "12.4.0.0",
+        "sourceUrl": "https://github.com/guiguichinelo/wun_plugin/releases/download/v0.1.0-beta.6/wun-0.1.0-beta.6-linux-x64.zip",
+        "checksum": "eb4e58f955b4d6125828825c1126f135",
+        "timestamp": "2026-11-07T22:30:29Z"
+      },
+      {
         "version": "0.1.0.5",
         "changelog": "Reduce repeated work in request queues, notifications, searches and title details. Cache public provider data with bounded retention and shared in-flight loads; keep workflow decisions, supports and read state live. Preserve list controls and cards while refreshing.",
         "targetAbi": "12.4.0.0",

@@ -1,0 +1,13 @@
+{
+  "releaseVersion": "0.1.0-beta.6",
+  "version": "0.1.0.6",
+  "targetAbi": "12.4.0.0",
+  "runtime": "linux-x64",
+  "filename": "wun-0.1.0-beta.6-linux-x64.zip",
+  "sourceUrl": "https://github.com/guiguichinelo/wun_plugin/releases/download/v0.1.0-beta.6/wun-0.1.0-beta.6-linux-x64.zip",
+  "checksum": "eb4e58f955b4d6125828825c1126f135",
+  "sha256": "16a2507574211ab8b99e00253c98476b218f3e536bb2244f3c8826e8a80838f2",
+  "timestamp": "2026-11-07T22:30:29Z",
+  "sourceCommit": "bf1c22d3713c1051fbd64b8b47719a13d8127aca",
+  "changelog": "Reconcile requests automatically when catalog items arrive, when a library scan completes and after administrator decisions. Group episode requests by series and season, show availability clearly and open the requested episode directly."
+}
