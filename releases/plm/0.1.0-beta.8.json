@@ -1,0 +1,13 @@
+{
+  "releaseVersion": "0.1.0-beta.8",
+  "version": "0.1.0.8",
+  "targetAbi": "12.4.0.0",
+  "runtime": "linux-x64",
+  "filename": "plm-0.1.0-beta.8-linux-x64.zip",
+  "sourceUrl": "https://github.com/guiguichinelo/plm_plugin/releases/download/v0.1.0-beta.8/plm-0.1.0-beta.8-linux-x64.zip",
+  "checksum": "4e3ce568a01f72b9762edca962ccbeeb",
+  "sha256": "30380a3e4696c2d057f40d2915be0b8b6d49fea24858df00756353fc990d3bd0",
+  "timestamp": "2026-11-07T05:13:01Z",
+  "sourceCommit": "b4dc872b9e5fc7106f39dd08b63cafb7318f2251",
+  "changelog": "Support explicit Jellyfin version groups in personal lists and Watch Later, preserving original selections while displaying one card per group. Add transactional group removal/restoration, group-aware memberships, idempotent additions and pagination after grouping. Also include the beta 7 fixes for unavailable-item removal, native refresh controls and unrelated requests blocked by the mirror mutation gate."
+}
