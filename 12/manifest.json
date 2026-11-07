@@ -9,6 +9,14 @@
     "imageUrl": "https://raw.githubusercontent.com/guiguichinelo/betterfin/main/assets/plm/thumbnail.png",
     "versions": [
       {
+        "version": "0.1.0.9",
+        "changelog": "Prevent native favorite actions from stalling behind catalog-resilience work and keep a concurrent unlike from being overwritten by a stale replay.",
+        "targetAbi": "12.4.0.0",
+        "sourceUrl": "https://github.com/guiguichinelo/plm_plugin/releases/download/v0.1.0-beta.9/plm-0.1.0-beta.9-linux-x64.zip",
+        "checksum": "2df8b21ef134318b705e7e49518216e9",
+        "timestamp": "2026-11-07T22:50:53Z"
+      },
+      {
         "version": "0.1.0.8",
         "changelog": "Support explicit Jellyfin version groups in personal lists and Watch Later, preserving original selections while displaying one card per group. Add transactional group removal/restoration, group-aware memberships, idempotent additions and pagination after grouping. Also include the beta 7 fixes for unavailable-item removal, native refresh controls and unrelated requests blocked by the mirror mutation gate.",
         "targetAbi": "12.4.0.0",

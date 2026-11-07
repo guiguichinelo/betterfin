@@ -1,0 +1,13 @@
+{
+  "releaseVersion": "0.1.0-beta.9",
+  "version": "0.1.0.9",
+  "targetAbi": "12.4.0.0",
+  "runtime": "linux-x64",
+  "filename": "plm-0.1.0-beta.9-linux-x64.zip",
+  "sourceUrl": "https://github.com/guiguichinelo/plm_plugin/releases/download/v0.1.0-beta.9/plm-0.1.0-beta.9-linux-x64.zip",
+  "checksum": "2df8b21ef134318b705e7e49518216e9",
+  "sha256": "0cca2712c58894ab13a33a5f4e7021264499726d58b9983fabb8d665ad1f5bfc",
+  "timestamp": "2026-11-07T22:50:53Z",
+  "sourceCommit": "e85b3ca3217c08a4ad218aba64e85df7a7fece11",
+  "changelog": "Prevent native favorite actions from stalling behind catalog-resilience work and keep a concurrent unlike from being overwritten by a stale replay."
+}
