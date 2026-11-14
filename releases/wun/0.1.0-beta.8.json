@@ -1,0 +1,13 @@
+{
+  "releaseVersion": "0.1.0-beta.8",
+  "version": "0.1.0.8",
+  "targetAbi": "12.4.0.0",
+  "runtime": "linux-x64",
+  "filename": "wun-0.1.0-beta.8-linux-x64.zip",
+  "sourceUrl": "https://github.com/guiguichinelo/wun_plugin/releases/download/v0.1.0-beta.8/wun-0.1.0-beta.8-linux-x64.zip",
+  "checksum": "d079651bc222e324e6c3b0f753c8fd71",
+  "sha256": "e3f939e41e040aecabcdec9853666f2a84c1aa74ff60a2710a495c6271408bac",
+  "timestamp": "2026-11-14T06:53:17Z",
+  "sourceCommit": "67d8258c0bfa15dca0a99a56a2313d69d077f88c",
+  "changelog": "Offer a request shortcut after native Jellyfin searches, both when no results are found and at the end of matching results. Opening it preserves the search text, resets filters to All and performs one WUN search. Requests still require an explicit user action."
+}

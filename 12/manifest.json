@@ -79,10 +79,18 @@
     "guid": "1d91696c-0fdd-46da-8734-3a3d94e33002",
     "name": "What U Need?",
     "owner": "guiguichinelo",
-    "overview": "Beta 4: improved request navigation, read/unread notifications and decision controls. Linux x64 only.",
-    "description": "Search the installed TMDb provider, request catalog content and support existing requests. Personal user queues, a general administrator queue, covers, participant context and separate unread/read notifications. Search stays open after requesting; state-aware administrator actions and refresh preserve queue filters. Native configuration and metrics, availability reconciliation, confirmed reopening and optional expiration/retention. All deletion and expiration policies default to disabled. Acquisition is manual. Upgrade migrates the WUN database to schema 3: back up binaries, plugin configuration and WUN data; restore matching binaries and database together to revert. Tested on Jellyfin 12.4.0 / Linux x64 only. User-facing page requires Plugin Pages and File Transformation 3.0.3.0 Release-12.4.0. Portuguese/English with English fallback.",
+    "overview": "Beta 8: request shortcuts after native searches, with or without matching results. Linux x64 only.",
+    "description": "Search the installed TMDb provider, request catalog content and support existing requests. Personal user queues, a general administrator queue, covers, participant context and separate unread/read notifications. Search stays open after requesting; state-aware administrator actions and refresh preserve queue filters. Native configuration and metrics, availability reconciliation, confirmed reopening and optional expiration/retention. All deletion and expiration policies default to disabled. Acquisition is manual. Upgrade migrates the WUN database to schema 3: back up binaries, plugin configuration and WUN data; restore matching binaries and database together to revert. Tested on Jellyfin 12.4.0 / Linux x64 only. User-facing page requires Plugin Pages and File Transformation 3.0.3.0 Release-12.4.0. Portuguese/English with English fallback. Native search shortcuts preserve the query, open WUN Search with All types and run one search without creating a request automatically. Search DOM integration validated on Jellyfin web 12.4.0.",
     "imageUrl": "https://raw.githubusercontent.com/guiguichinelo/betterfin/main/assets/wun/thumbnail.png",
     "versions": [
+      {
+        "version": "0.1.0.8",
+        "changelog": "Offer a request shortcut after native Jellyfin searches, both when no results are found and at the end of matching results. Opening it preserves the search text, resets filters to All and performs one WUN search. Requests still require an explicit user action.",
+        "targetAbi": "12.4.0.0",
+        "sourceUrl": "https://github.com/guiguichinelo/wun_plugin/releases/download/v0.1.0-beta.8/wun-0.1.0-beta.8-linux-x64.zip",
+        "checksum": "d079651bc222e324e6c3b0f753c8fd71",
+        "timestamp": "2026-11-14T06:53:17Z"
+      },
       {
         "version": "0.1.0.6",
         "changelog": "Reconcile requests automatically when catalog items arrive, when a library scan completes and after administrator decisions. Group episode requests by series and season, show availability clearly and open the requested episode directly.",
