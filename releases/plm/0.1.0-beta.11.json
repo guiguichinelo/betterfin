@@ -1,0 +1,13 @@
+{
+  "releaseVersion": "0.1.0-beta.11",
+  "version": "0.1.0.11",
+  "targetAbi": "12.4.0.0",
+  "runtime": "linux-x64",
+  "filename": "plm-0.1.0-beta.11-linux-x64.zip",
+  "sourceUrl": "https://github.com/guiguichinelo/plm_plugin/releases/download/v0.1.0-beta.11/plm-0.1.0-beta.11-linux-x64.zip",
+  "checksum": "1d89952dae5aa4bae15cb4696c8d3cfe",
+  "sha256": "61c39707a7946ca1d8997bdac87038ca99f3f9f34a630b132603fb08ce22f9c3",
+  "timestamp": "2026-11-14T22:15:29Z",
+  "sourceCommit": "56deffee2038a4d0045f45a1cb7ef7b797c96c45",
+  "changelog": "Expose All, Suggestions, Genres and Favorites in movie/series library navigation. Library Favorites presents Liked, Watch Later and personal lists as content shelves filtered to that library. Click a section heading to open its full list with search, contextual genres, filters and pagination. The overview follows Genres-style card dimensions and headings, keeps its library backdrop, and omits filters and separate Explore buttons. Empty shelves are omitted; empty libraries and filters have explicit recovery actions. Global Favorites retains its management interface. Existing collections remain unchanged, and list membership does not create native likes."
+}
