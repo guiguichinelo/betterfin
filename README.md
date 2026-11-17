@@ -33,15 +33,15 @@ Private lists, native favorites, Watch Later, thumbnails and browse filters. Bet
 - Back up Jellyfin and PLM data before installing. Native-client playback,
   sustained load and other server versions remain unvalidated.
 
-### What U Need? - beta 5
+### What U Need? - beta 9
 
 ![WUN](assets/wun/thumbnail.png)
 
-Personal catalog requests, unique supports, administrator decisions and rich notifications. Beta 5 adds bounded read caches and shared provider loads, preserving live workflow state and stable refresh controls. Native configuration/metrics, availability updates and optional retention. All deletion and expiration policies default to disabled. Database schema 3 requires a matching data/binary backup for rollback.
+Personal catalog requests, unique supports, administrator decisions and rich notifications. Beta 9 opens the administrator queue in Awaiting approval, shows filters before data loads and uses bounded parallel card preparation. Personal Following retains all states. Beta 5 adds bounded read caches and shared provider loads, preserving live workflow state and stable refresh controls. Native configuration/metrics, availability updates and optional retention. All deletion and expiration policies default to disabled. Database schema 3 requires a matching data/binary backup for rollback.
 
 - [Source](https://github.com/guiguichinelo/wun_plugin)
-- [Beta release](https://github.com/guiguichinelo/wun_plugin/releases/tag/v0.1.0-beta.5)
-- Jellyfin catalog/assembly version `0.1.0.5`; Linux x64 / Jellyfin 12.4.0.
+- [Beta release](https://github.com/guiguichinelo/wun_plugin/releases/tag/v0.1.0-beta.9)
+- Jellyfin catalog/assembly version `0.1.0.9`; Linux x64 / Jellyfin 12.4.0.
 - Acquisition is manual. User-facing pages require Plugin Pages and File Transformation 3.0.3.0 Release-12.4.0. Review the release notes before installing.
 
 ## Maintain versioned catalogs
